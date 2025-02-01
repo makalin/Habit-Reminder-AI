@@ -15,8 +15,8 @@ An intelligent CLI/desktop application that helps you build and maintain habits 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/habit-reminder-ai.git
-cd habit-reminder-ai
+git clone https://github.com/makalin/Habit-Reminder-AI.git
+cd Habit-Reminder-AI
 ```
 
 2. Create a virtual environment (recommended):
